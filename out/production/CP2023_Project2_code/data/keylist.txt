@@ -1,0 +1,9 @@
+d,10
+aa,5
+a,4
+,4
+aaaaa,2
+asfasf,1
+aaaa,1
+sassafras,1
+did,1
